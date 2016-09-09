@@ -1,0 +1,6 @@
+Hello! This week, you must follow all the steps on the following files concurrently after another:
+1. Login to badak server(SOPLogintoBadakServer.pdf)
+2. Week 1(week1_rev20160907.pdf)
+3. Push and pull git repository(TutorialsPushandPullRepository.pdf)
+
+Best Regards,
