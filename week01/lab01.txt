@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 charly.micolas StafCS 4096 Sep  8 15:19 .
+drwx--x--x  3 charly.micolas StafCS 4096 Sep  8 14:56 ..
+drwxr-xr-x  8 charly.micolas StafCS 4096 Sep  8 14:59 .git
+-rw-r--r--  1 charly.micolas StafCS    0 Sep  8 15:20 lab01.txt
+-rw-r--r--  1 charly.micolas StafCS    7 Sep  8 09:39 README.md
+drwxr-xr-x  2 charly.micolas StafCS 4096 Sep  8 09:58 Sandbox
+drwxr-xr-x  2 charly.micolas StafCS 4096 Sep  8 14:56 week00
+drwxr-xr-x  2 charly.micolas StafCS 4096 Sep  8 14:46 week01
+drwxr-xr-x  2 charly.micolas StafCS 4096 Sep  8 14:47 week02
+drwxr-xr-x  2 charly.micolas StafCS 4096 Sep  8 14:47 week03
+drwxr-xr-x  2 charly.micolas StafCS 4096 Sep  8 14:47 week04
+drwxr-xr-x  2 charly.micolas StafCS 4096 Sep  8 14:48 week05
+drwxr-xr-x  2 charly.micolas StafCS 4096 Sep  8 14:49 week06
+drwxr-xr-x  2 charly.micolas StafCS 4096 Sep  8 14:49 week07
+drwxr-xr-x  2 charly.micolas StafCS 4096 Sep  8 14:50 week08
+drwxr-xr-x  2 charly.micolas StafCS 4096 Sep  8 14:50 week09
+drwxr-xr-x  2 charly.micolas StafCS 4096 Sep  8 14:51 week10
+/home/fasilkom/mahasiswa/c/charly.micolas/os162/week01
